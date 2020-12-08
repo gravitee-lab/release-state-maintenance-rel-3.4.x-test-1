@@ -187,6 +187,10 @@
         },
         {
             "name": "gravitee-repository-jdbc",
+            "version": "3.4.1"
+        },
+        {
+            "name": "gravitee-repository-jdbc-release-3-4-1",
             "version": "3.4.1-SNAPSHOT"
         },
         {
