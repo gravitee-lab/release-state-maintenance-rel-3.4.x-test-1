@@ -344,6 +344,7 @@
             "gravitee-repository-mongodb",
             "gravitee-repository-redis",
             "gravitee-repository-jdbc",
+            "gravitee-repository-jdbc-release-3-4-1",
             "gravitee-repository-hazelcast",
             "gravitee-repository-gateway-bridge-http",
             "gravitee-fetcher-api",
