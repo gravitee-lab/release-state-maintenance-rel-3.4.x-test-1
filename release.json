@@ -342,6 +342,7 @@
         ],
         [
             "gravitee-repository-test",
+            "gravitee-repository-test-release-3-4-1",
             "gravitee-service-discovery-consul",
             "gravitee-service-discovery-eureka"
         ],
@@ -350,6 +351,7 @@
             "gravitee-resource-api",
             "gravitee-definition",
             "gravitee-repository-mongodb",
+            "gravitee-repository-mongodb-release-3-4-1",
             "gravitee-repository-redis",
             "gravitee-repository-jdbc",
             "gravitee-repository-jdbc-release-3-4-1",
