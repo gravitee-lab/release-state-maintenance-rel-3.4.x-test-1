@@ -171,10 +171,18 @@
         },
         {
             "name": "gravitee-repository-test",
+            "version": "3.4.1"
+        },
+        {
+            "name": "gravitee-repository-test-release-3-4-1",
             "version": "3.4.1-SNAPSHOT"
         },
         {
             "name": "gravitee-repository-mongodb",
+            "version": "3.4.1"
+        },
+        {
+            "name": "gravitee-repository-mongodb-release-3-4-1",
             "version": "3.4.1-SNAPSHOT"
         },
         {
