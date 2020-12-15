@@ -174,7 +174,7 @@
             "version": "3.4.1"
         },
         {
-            "name": "gravitee-repository-test-release-3-4-1",
+            "name": "gravitee-repository-test-release-3-4-1-test-1",
             "version": "3.4.1-SNAPSHOT"
         },
         {
@@ -182,7 +182,7 @@
             "version": "3.4.1"
         },
         {
-            "name": "gravitee-repository-mongodb-release-3-4-1",
+            "name": "gravitee-repository-mongodb-release-3-4-1-test-1",
             "version": "3.4.1-SNAPSHOT"
         },
         {
@@ -198,7 +198,7 @@
             "version": "3.4.1"
         },
         {
-            "name": "gravitee-repository-jdbc-release-3-4-1",
+            "name": "gravitee-repository-jdbc-release-3-4-1-test-1",
             "version": "3.4.1-SNAPSHOT"
         },
         {
